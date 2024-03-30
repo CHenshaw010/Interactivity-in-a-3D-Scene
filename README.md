@@ -4,17 +4,17 @@
 <details>
 <summary>Interactive 3D Environment:</summary>
 
-- [Design Defense Document](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
-- [Camera Implementation](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
-- [Texture Rendering](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentTest.java)
-- [Lighting Calculations](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentService.java)
-- [3D Object Meshes](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentServiceTest.java)
+- [Design Defense Document](https://github.com/CHenshaw010/Interactivity-in-a-3D-Scene/blob/main/Design_Defense.pdf)
+- [Camera Implementation](https://github.com/CHenshaw010/Interactivity-in-a-3D-Scene/blob/cd8bc55b90388ddae904782ea5357dc088dec1ee/Interactive%203D%20Environment/7-1%20Project%20-%20Submission.cpp#L58)
+- [Texture Rendering](https://github.com/CHenshaw010/Interactivity-in-a-3D-Scene/blob/cd8bc55b90388ddae904782ea5357dc088dec1ee/Interactive%203D%20Environment/7-1%20Project%20-%20Submission.cpp#L552)
+- [Lighting Calculations](https://github.com/CHenshaw010/Interactivity-in-a-3D-Scene/blob/cd8bc55b90388ddae904782ea5357dc088dec1ee/Interactive%203D%20Environment/7-1%20Project%20-%20Submission.cpp#L149)
+- [3D Object Meshes](https://github.com/CHenshaw010/Interactivity-in-a-3D-Scene/blob/main/Interactive%203D%20Environment/meshes.cpp)
 </details>
 
 <details>
 <summary>Simple 3D Environment:</summary>
   
-[3D Object Meshes](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
+[3D Object Meshes](https://github.com/CHenshaw010/Interactivity-in-a-3D-Scene/blob/cd8bc55b90388ddae904782ea5357dc088dec1ee/Simple%203D%20Environment/3-3%20Assignment%20-%20Building%20a%203D%20Pyramid.cpp#L243)
 
 </details>
 
