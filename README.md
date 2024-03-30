@@ -4,15 +4,11 @@
 <details>
 <summary>Interactive 3D Environment:</summary>
 
-[Design Defense Document](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
-  
-[Camera Implementation](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
-
-[Texture Rendering](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentTest.java)
-
-[Lighting Calculations](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentService.java)
-
-[3D Object Meshes](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentServiceTest.java)
+- [Design Defense Document](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
+- [Camera Implementation](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
+- [Texture Rendering](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentTest.java)
+- [Lighting Calculations](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentService.java)
+- [3D Object Meshes](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentServiceTest.java)
 </details>
 
 <details>
