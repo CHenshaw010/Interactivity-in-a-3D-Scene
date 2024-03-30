@@ -4,7 +4,7 @@
 <details>
 <summary>Interactive 3D Environment:</summary>
 
-[Design Defense Document2](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
+[Design Defense Document](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
   
 [Camera Implementation](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
 
