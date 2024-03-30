@@ -19,7 +19,7 @@
 </details>
 
 ### Important Note:
-This application currently does not work due to dependency issues. I'm actively working on updating the repository to contain functioning dependencies.
+This application currently does not work due to OpenGL dependency issues. While I'm actively working to solve this issue, the repository stands to demonstrate the coding capabilities within OpenGL.
 
 ### Personal Notes:
 - How do I approach designing software and developing programs?
